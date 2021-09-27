@@ -1,0 +1,6 @@
+[10-Apr-2021 09:44:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[10-Apr-2021 09:45:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[10-Apr-2021 09:45:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/home.php on line 97
+[10-Apr-2021 09:45:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/home.php on line 102
+[10-Apr-2021 09:45:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/home.php on line 114
+[10-Apr-2021 09:45:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/home.php on line 116

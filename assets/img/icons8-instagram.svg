@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   width="64px"
+   height="64px"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="icons8-instagram.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="860"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="21.665591"
+     inkscape:cy="33.834579"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <radialGradient
+     id="TGwjmZMm2W~B4yrgup6jda"
+     cx="32"
+     cy="32.5"
+     r="31.259"
+     gradientTransform="matrix(1 0 0 -1 0 64)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#efdcb1"
+       id="stop2" />
+    <stop
+       offset="0"
+       stop-color="#f2e0bb"
+       id="stop4" />
+    <stop
+       offset=".011"
+       stop-color="#f2e0bc"
+       id="stop6" />
+    <stop
+       offset=".362"
+       stop-color="#f9edd2"
+       id="stop8" />
+    <stop
+       offset=".699"
+       stop-color="#fef4df"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-color="#fff7e4"
+       id="stop12" />
+  </radialGradient>
+  <radialGradient
+     id="TGwjmZMm2W~B4yrgup6jdb"
+     cx="18.51"
+     cy="66.293"
+     r="69.648"
+     gradientTransform="matrix(.6435 -.7654 .5056 .4251 -26.92 52.282)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".073"
+       stop-color="#eacc7b"
+       id="stop17" />
+    <stop
+       offset=".184"
+       stop-color="#ecaa59"
+       id="stop19" />
+    <stop
+       offset=".307"
+       stop-color="#ef802e"
+       id="stop21" />
+    <stop
+       offset=".358"
+       stop-color="#ef6d3a"
+       id="stop23" />
+    <stop
+       offset=".46"
+       stop-color="#f04b50"
+       id="stop25" />
+    <stop
+       offset=".516"
+       stop-color="#f03e58"
+       id="stop27" />
+    <stop
+       offset=".689"
+       stop-color="#db359e"
+       id="stop29" />
+    <stop
+       offset=".724"
+       stop-color="#ce37a4"
+       id="stop31" />
+    <stop
+       offset=".789"
+       stop-color="#ac3cb4"
+       id="stop33" />
+    <stop
+       offset=".877"
+       stop-color="#7544cf"
+       id="stop35" />
+    <stop
+       offset=".98"
+       stop-color="#2b4ff2"
+       id="stop37" />
+  </radialGradient>
+  <path
+     fill="url(#TGwjmZMm2W~B4yrgup6jdb)"
+     d="M45,57H19c-5.5,0-10-4.5-10-10V21c0-5.5,4.5-10,10-10h26c5.5,0,10,4.5,10,10v26C55,52.5,50.5,57,45,57z"
+     id="path40" />
+  <path
+     fill="#fff"
+     d="M32,20c4.6,0,5.1,0,6.9,0.1c1.7,0.1,2.6,0.4,3.2,0.6c0.8,0.3,1.4,0.7,2,1.3c0.6,0.6,1,1.2,1.3,2 c0.2,0.6,0.5,1.5,0.6,3.2C46,28.9,46,29.4,46,34s0,5.1-0.1,6.9c-0.1,1.7-0.4,2.6-0.6,3.2c-0.3,0.8-0.7,1.4-1.3,2 c-0.6,0.6-1.2,1-2,1.3c-0.6,0.2-1.5,0.5-3.2,0.6C37.1,48,36.6,48,32,48s-5.1,0-6.9-0.1c-1.7-0.1-2.6-0.4-3.2-0.6 c-0.8-0.3-1.4-0.7-2-1.3c-0.6-0.6-1-1.2-1.3-2c-0.2-0.6-0.5-1.5-0.6-3.2C18,39.1,18,38.6,18,34s0-5.1,0.1-6.9 c0.1-1.7,0.4-2.6,0.6-3.2c0.3-0.8,0.7-1.4,1.3-2c0.6-0.6,1.2-1,2-1.3c0.6-0.2,1.5-0.5,3.2-0.6C26.9,20,27.4,20,32,20 M32,17 c-4.6,0-5.2,0-7,0.1c-1.8,0.1-3,0.4-4.1,0.8c-1.1,0.4-2.1,1-3,2s-1.5,1.9-2,3c-0.4,1.1-0.7,2.3-0.8,4.1C15,28.8,15,29.4,15,34 s0,5.2,0.1,7c0.1,1.8,0.4,3,0.8,4.1c0.4,1.1,1,2.1,2,3c0.9,0.9,1.9,1.5,3,2c1.1,0.4,2.3,0.7,4.1,0.8c1.8,0.1,2.4,0.1,7,0.1 s5.2,0,7-0.1c1.8-0.1,3-0.4,4.1-0.8c1.1-0.4,2.1-1,3-2c0.9-0.9,1.5-1.9,2-3c0.4-1.1,0.7-2.3,0.8-4.1c0.1-1.8,0.1-2.4,0.1-7 s0-5.2-0.1-7c-0.1-1.8-0.4-3-0.8-4.1c-0.4-1.1-1-2.1-2-3s-1.9-1.5-3-2c-1.1-0.4-2.3-0.7-4.1-0.8C37.2,17,36.6,17,32,17L32,17z"
+     id="path42" />
+  <path
+     fill="#fff"
+     d="M32,25c-5,0-9,4-9,9s4,9,9,9s9-4,9-9S37,25,32,25z M32,40c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S35.3,40,32,40 z"
+     id="path44" />
+  <circle
+     cx="41"
+     cy="25"
+     r="2"
+     fill="#fff"
+     id="circle46" />
+</svg>

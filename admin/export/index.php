@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>403 Forbidden</title>
+    <link rel="icon" href="assets/img/favicon.png" type="image/png">
+    <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        body {
+            background: #dedede;
+        }
+
+        .page-wrap {
+            min-height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <!------ Include the above in your HEAD tag ---------->
+
+    <div class="page-wrap d-flex flex-row align-items-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 text-center">
+                    <span class="display-1 d-block">403</span>
+                    <div class="mb-4 lead">Anda tidak punya kuasa/privilage dipage ini.</div>
+                    <a href="../dashboard.php" class="btn btn-link">Kembali Ke Dashboard.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/jquery-3.5.1.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+
+</body>
+
+
+
+</html>

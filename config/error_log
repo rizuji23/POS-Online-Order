@@ -1,0 +1,36 @@
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 63
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 65
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 67
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/config/api.php on line 69
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 80
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 82
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 85
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 87
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 117
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 119
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 121
+[25-Mar-2021 23:26:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/config/api.php on line 124
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 25
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 63
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 65
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 67
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/config/api.php on line 69
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 80
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 82
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 85
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 87
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rizki'@'localhost' (using password: YES) in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 117
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 119
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 121
+[25-Mar-2021 23:26:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/lesc9227/public_html/imajinasi/config/api.php on line 124
+[10-Apr-2021 09:44:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/lesc9227/public_html/imajinasi/config/config.php on line 6
+[10-Apr-2021 09:44:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 23
+[10-Apr-2021 09:44:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lesc9227/public_html/imajinasi/config/api.php on line 24
+[10-Apr-2021 09:44:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lesc9227/public_html/imajinasi/config/api.php on line 29
